@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emoji-match/static/css/main.a2527c74.css",
+    "main.js": "/emoji-match/static/js/main.3e0bacac.js",
+    "index.html": "/emoji-match/index.html",
+    "main.a2527c74.css.map": "/emoji-match/static/css/main.a2527c74.css.map",
+    "main.3e0bacac.js.map": "/emoji-match/static/js/main.3e0bacac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2527c74.css",
+    "static/js/main.3e0bacac.js"
+  ]
+}
